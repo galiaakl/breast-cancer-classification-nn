@@ -2,7 +2,7 @@ import numpy as np
 from numpy import random
 import os
 import pickle
-
+ 
 np.random.seed(42)
 
 class NeuralNetwork:
